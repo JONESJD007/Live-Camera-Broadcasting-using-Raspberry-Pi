@@ -1,0 +1,16 @@
+🛠 Components Used:
+#Raspberry Pi (3, 4, or 5)
+
+#Raspberry Pi Camera Module or USB Webcam
+
+#MicroSD Card (16GB or higher)
+
+#5V 3A Power Supply
+
+#Internet Connection (Wi-Fi or Ethernet)
+
+#HDMI Cable (optional, for setup)
+
+#Monitor, Keyboard, and Mouse (for setup or direct access)
+
+#Heat Sink/Fan (optional, for cooling)
